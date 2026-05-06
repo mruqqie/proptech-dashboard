@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Proptech Dashboard",
-  description: "",
+  description: "Home",
 };
 
 export default function RootLayout({
